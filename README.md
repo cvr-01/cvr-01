@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Chaitanya Vishnu R! <br/> <a href="https://www.linkedin.com/in/chaitanya-vishnu-r-92725112a">Data Scientist</a></h1>
 
-<!--
-**cvr-01/cvr-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Science Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>ZIVA - your workout partner</b>
+  - [YOGA](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Airbnb Homestays Classification</b>
+  - [Machine Learning Clustering Model](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>NBA Player Analysis</b>
+  - [Machine Learning Model](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Amazon Product Review Analysis</b>
+  - [NLP, Machine Learning, & Forecast Modeling](https://github.com/joshmadakor1/EncrypterPOC)
+    
+<h2>📜 Certifications:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Advance Post Graduate program in Data Science and Machine Learning](https://github.com/joshmadakor1/EncrypterPOC)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Chaitanya Vishnu R | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
+[<img align="left" alt="Chaitanya Vishnu R | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[Gmail]: rchaitanyavishnucvr29@gmail.com
+[linkedin]: https://www.linkedin.com/in/chaitanya-vishnu-r-92725112a
