@@ -13,7 +13,7 @@
     
 <h2>📜 Certifications:</h2>
 
-- [Advance Post Graduate program in Data Science and Machine Learning](https://github.com/joshmadakor1/EncrypterPOC)
+- [Advance Post Graduate program in Data Science and Machine Learning](https://github.com/cvr-01/cvr-01/blob/main/DATA%20ANALYST%20Certificate.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
